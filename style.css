@@ -47,6 +47,7 @@ h1,
 .main {
     display: flex;
     justify-content: space-around;
+
     margin-bottom: 5rem;
     gap: 40px
 }
@@ -81,12 +82,13 @@ img {
 }
 
 .section-one {
-    padding-bottom: 8rem;
+    padding-bottom: 10rem;
 }
 
-h2 {
+
+.section-one h2 {
+    margin: 2rem 0;
     text-align: center;
-    margin: 2rem auto;
 }
 
 .action-items {
