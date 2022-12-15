@@ -78,3 +78,27 @@ img {
     max-width: 100%;
     min-height: 100%;
 }
+
+h2 {
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.action-items {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.action-items div {
+    max-width: 10rem;
+}
+
+.action-items div img {
+    border: blue solid 3px;
+    border-radius: 10px;
+}
+
+.action-items p {
+    text-align: center;
+}
