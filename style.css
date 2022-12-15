@@ -79,6 +79,10 @@ img {
     min-height: 100%;
 }
 
+.section-one {
+    padding-bottom: 8rem;
+}
+
 h2 {
     text-align: center;
     margin: 2rem auto;
@@ -101,4 +105,21 @@ h2 {
 
 .action-items p {
     text-align: center;
+}
+
+.quote-box {
+    background-color: #E5E7EB;
+    padding: 9rem 20%;
+}
+
+.quote-box p {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.quote-box span {
+    display: block;
+    font-weight: 700;
+    text-align: right;
 }
