@@ -59,6 +59,7 @@ h1,
     font-weight: 900;
     font-size: 48px;
     color: #f9faf8;
+    text-align: left;
 }
 
 .nav a,
@@ -161,4 +162,15 @@ h2 {
     background-color: #3882F6;
     border-radius: 5px;
     border: solid white 2px;
+}
+
+footer {
+    padding: 1.5rem 0;
+    color: white;
+    background-color: #1F2937;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
 }
